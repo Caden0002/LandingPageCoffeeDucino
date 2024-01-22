@@ -1,4 +1,4 @@
-[![Screenshot 2024-01-23 at 4.38.24 AM.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fsh%2Fx1nnh7_94ps82jrb3k_z3g0r0000gp%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_B4T21N%2FScreenshot%202024-01-23%20at%204.38.24%E2%80%AFAM.png)](https://github.com/Caden0002/LandingPageCoffeeDucino/issues/1)
+<img width="1418" alt="Screenshot 2024-01-23 at 4 43 16 AM" src="https://github.com/Caden0002/LandingPageCoffeeDucino/assets/150916753/f92b7a82-1749-4362-b7c6-16a5e844a5f7">
 
 #### How to Install and Run the Project ####
 1. Open Terminal at the project's CD<br />
