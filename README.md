@@ -1,4 +1,10 @@
-<img width="1418" alt="Screenshot 2024-01-23 at 4 43 16 AM" src="https://github.com/Caden0002/LandingPageCoffeeDucino/assets/150916753/f92b7a82-1749-4362-b7c6-16a5e844a5f7">
+
+
+
+https://github.com/Caden0002/LandingPageCoffeeDucino/assets/150916753/44ba8f4b-be1d-40da-b956-b256a48dc3b1
+
+
+
 
 #### How to Install and Run the Project ####
 1. Open Terminal at the project's CD<br />
