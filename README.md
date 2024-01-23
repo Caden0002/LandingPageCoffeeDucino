@@ -1,5 +1,4 @@
 
-
 ![](https://github.com/Caden0002/LandingPageCoffeeDucino/blob/main/ducino.gif)
 
 
