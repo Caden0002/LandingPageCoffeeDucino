@@ -1,9 +1,6 @@
 
 
-
-https://github.com/Caden0002/LandingPageCoffeeDucino/assets/150916753/44ba8f4b-be1d-40da-b956-b256a48dc3b1
-
-
+![](https://github.com/Caden0002/LandingPageCoffeeDucino/blob/main/ducino.gif)
 
 
 #### How to Install and Run the Project ####
